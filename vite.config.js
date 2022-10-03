@@ -9,4 +9,5 @@ export default defineConfig({
 			input: path.resolve(__dirname, 'public', 'index.html'),
 		},
 	},
+	base: '/platzi-travel-tailwind/',
 })
