@@ -1,7 +1,7 @@
 import './style.css'
 
 const htmlElement = document.querySelector('html')
-const buttonDark = document.querySelector('.toggle-dark-mode')
+const buttonDark = document.querySelector('#toggle-dark-mode')
 const Userperfil = document.querySelector('#user-perfil')
 const perfil = document.querySelector('#perfil')
 const closedPerfil = document.querySelector('#closed-perfil')

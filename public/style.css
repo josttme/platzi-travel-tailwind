@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .card {
-	@apply h-64 w-48 flex-none snap-center rounded-lg drop-shadow-lg  transition-all hover:-translate-y-4 hover:shadow-xl xl:h-96 xl:w-80;
+	@apply m-2 mt-5 h-64 w-48 transition-all hover:-translate-y-4 xl:h-96 xl:w-80;
 }
 .cardTittle {
 	@apply pt-8 pb-2 text-3xl font-semibold text-white  lg:text-4xl lg:text-black;
